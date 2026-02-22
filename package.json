@@ -1,0 +1,21 @@
+{
+  "name": "api-testing-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Munna-dot/api-testing-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Munna-dot/api-testing-repo/issues"
+  },
+  "homepage": "https://github.com/Munna-dot/api-testing-repo#readme"
+}
